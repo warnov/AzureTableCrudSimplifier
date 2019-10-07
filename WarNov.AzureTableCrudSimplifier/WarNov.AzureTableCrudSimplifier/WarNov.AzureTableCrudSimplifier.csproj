@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>WarNov</Authors>
+    <Description>Simplifies access to Azure Tables for making CRUD operations. It uses generic methods (of entities inheriting from TableEntity) to provide strong type operatoins</Description>
+    <PackageProjectUrl>https://github.com/warnov/AzureTableCrudSimplifier</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/warnov/AzureTableCrudSimplifier</RepositoryUrl>
+    <PackageTags>Azure, Azure Storage, Azure Tables, Table Storage, Generics, Strongly Typed, CRUD</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <PackageReleaseNotes>Now the table name is a member field of TableOperator</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
