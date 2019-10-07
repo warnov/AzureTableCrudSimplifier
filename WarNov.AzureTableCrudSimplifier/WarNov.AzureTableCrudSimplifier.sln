@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarNov.AzureTableCrudSimplifier", "WarNov.AzureTableCrudSimplifier\WarNov.AzureTableCrudSimplifier.csproj", "{5E2A12B3-E7DE-4A3F-9EAF-FEED1C29DE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2A12B3-E7DE-4A3F-9EAF-FEED1C29DE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2A12B3-E7DE-4A3F-9EAF-FEED1C29DE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2A12B3-E7DE-4A3F-9EAF-FEED1C29DE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2A12B3-E7DE-4A3F-9EAF-FEED1C29DE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CC7F03-23E8-4514-9D68-204A5B22C5C6}
+	EndGlobalSection
+EndGlobal
